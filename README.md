@@ -14,7 +14,8 @@ O Museu Nacional Honestino Guimarães, também chamado de Museu Nacional do Conj
 ### 🎨 Detalhe
 
 Não há resposividade sendo utilizada no site.<br>
-Neste site é utilizado o Normalize.css e o HTML5shiv.
+Neste site é utilizado o Normalize.css e o HTML5shiv.<br>
+Também é utilizado iframes do Youtube e do Google Maps para a composição do site.
 
 <hr>
 
